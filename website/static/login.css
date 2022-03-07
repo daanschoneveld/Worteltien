@@ -1,0 +1,37 @@
+body {
+    background-color: #FAFAFA
+}
+
+.page-wrapper {
+    display: grid;
+    height: 70vh;
+    place-content: center;
+}
+
+.login-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: white;
+    width: 80vw;
+    height: 60vh;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 15px;
+}
+
+.login-image {
+    display: grid;
+    place-content: center;
+}
+
+.login-form {
+    display: grid;
+    place-content: center;
+}
+
+.form {
+    text-align: center;
+}
+
+.animation lottie-player {
+    width: 30vw;
+}
