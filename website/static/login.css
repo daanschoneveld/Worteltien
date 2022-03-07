@@ -1,10 +1,6 @@
-body {
-    background-color: #FAFAFA
-}
-
 .page-wrapper {
     display: grid;
-    height: 70vh;
+    height: 100vh;
     place-content: center;
 }
 
@@ -26,10 +22,6 @@ body {
 .login-form {
     display: grid;
     place-content: center;
-}
-
-.form {
-    text-align: center;
 }
 
 .animation lottie-player {
